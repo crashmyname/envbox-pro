@@ -1,0 +1,44 @@
+node_modules/
+projects/mongo-express/node_modules/
+.git-backup-515mb/
+environments/
+resources/
+*.exe
+*.dll
+*.pdb
+*.lib
+*.zip
+*.tar.gz
+
+# Keep download script
+!environments/download.ps1
+!environments/README.md
+!environments/.gitkeep
+
+# Database
+*.db
+*.sqlite
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build
+dist/
+build/
+"@ | Out-File -FilePath .gitignore -Encoding UTF8 -Force
+
+# 3. Buat placeholder files
+"placeholder" | Out-File -FilePath environments/.gitkeep -Encoding UTF8
+"" | Out-File -FilePath environments/README.md -Encoding UTF8
+
+# 4. Commit
+git add .gitignore environments/.gitkeep environments/README.md
+git commit -m "Remove binary files, add downloader script"
+
+# 5. Bersihkan history
+git gc --aggressive --prune=now
+
+# 6. Naikkan buffer & push
+git config http.postBuffer 524288000
+git push --force-with-lease

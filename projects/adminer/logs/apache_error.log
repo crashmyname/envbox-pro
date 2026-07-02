@@ -1,0 +1,70 @@
+[Wed Jul 01 23:56:57.276231 2026] [core:warn] [pid 20340:tid 340] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 01 23:56:57.340097 2026] [mpm_winnt:notice] [pid 20340:tid 340] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Wed Jul 01 23:56:57.340097 2026] [mpm_winnt:notice] [pid 20340:tid 340] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Wed Jul 01 23:56:57.340097 2026] [core:notice] [pid 20340:tid 340] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Wed Jul 01 23:56:57.365170 2026] [mpm_winnt:notice] [pid 20340:tid 340] AH00418: Parent: Created child process 27040
+[Wed Jul 01 23:56:58.042149 2026] [mpm_winnt:notice] [pid 27040:tid 344] AH00354: Child: Starting 150 worker threads.
+[Wed Jul 01 23:57:59.350289 2026] [mpm_winnt:crit] [pid 27040:tid 344] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Jul 01 23:58:01.357319 2026] [mpm_winnt:notice] [pid 27040:tid 344] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 13:46:04.997361 2026] [core:warn] [pid 30172:tid 348] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 13:46:05.011759 2026] [mpm_winnt:notice] [pid 30172:tid 348] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 13:46:05.011759 2026] [mpm_winnt:notice] [pid 30172:tid 348] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 13:46:05.011759 2026] [core:notice] [pid 30172:tid 348] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 13:46:05.034857 2026] [mpm_winnt:notice] [pid 30172:tid 348] AH00418: Parent: Created child process 34500
+[Thu Jul 02 13:46:05.510873 2026] [mpm_winnt:notice] [pid 34500:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 13:55:03.304744 2026] [mpm_winnt:crit] [pid 34500:tid 348] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 13:55:05.322870 2026] [mpm_winnt:notice] [pid 34500:tid 348] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 13:56:37.471410 2026] [core:warn] [pid 20340:tid 348] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 13:56:37.501379 2026] [mpm_winnt:notice] [pid 20340:tid 348] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 13:56:37.501379 2026] [mpm_winnt:notice] [pid 20340:tid 348] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 13:56:37.501379 2026] [core:notice] [pid 20340:tid 348] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 13:56:37.509949 2026] [mpm_winnt:notice] [pid 20340:tid 348] AH00418: Parent: Created child process 12040
+[Thu Jul 02 13:56:38.039065 2026] [mpm_winnt:notice] [pid 12040:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 14:02:54.517504 2026] [mpm_winnt:crit] [pid 12040:tid 348] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 14:02:56.534055 2026] [mpm_winnt:notice] [pid 12040:tid 348] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 14:04:45.117906 2026] [core:warn] [pid 20132:tid 348] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 14:04:45.142824 2026] [mpm_winnt:notice] [pid 20132:tid 348] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 14:04:45.142824 2026] [mpm_winnt:notice] [pid 20132:tid 348] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 14:04:45.142824 2026] [core:notice] [pid 20132:tid 348] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 14:04:45.158922 2026] [mpm_winnt:notice] [pid 20132:tid 348] AH00418: Parent: Created child process 29116
+[Thu Jul 02 14:04:45.666010 2026] [mpm_winnt:notice] [pid 29116:tid 212] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 14:10:43.212298 2026] [mpm_winnt:crit] [pid 29116:tid 212] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 14:10:43.213861 2026] [mpm_winnt:error] [pid 29116:tid 1924] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Thu Jul 02 14:10:43.213861 2026] [mpm_winnt:notice] [pid 29116:tid 1924] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Thu Jul 02 14:10:45.229755 2026] [mpm_winnt:notice] [pid 29116:tid 212] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 14:13:37.060108 2026] [core:warn] [pid 15748:tid 340] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 14:13:37.089264 2026] [mpm_winnt:notice] [pid 15748:tid 340] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 14:13:37.089264 2026] [mpm_winnt:notice] [pid 15748:tid 340] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 14:13:37.089264 2026] [core:notice] [pid 15748:tid 340] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 14:13:37.104962 2026] [mpm_winnt:notice] [pid 15748:tid 340] AH00418: Parent: Created child process 7108
+[Thu Jul 02 14:13:37.651347 2026] [mpm_winnt:notice] [pid 7108:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 14:16:23.000527 2026] [mpm_winnt:crit] [pid 7108:tid 348] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 14:16:25.021051 2026] [mpm_winnt:notice] [pid 7108:tid 348] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 14:16:35.720449 2026] [core:warn] [pid 3816:tid 360] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 14:16:35.738337 2026] [mpm_winnt:notice] [pid 3816:tid 360] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 14:16:35.738337 2026] [mpm_winnt:notice] [pid 3816:tid 360] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 14:16:35.738337 2026] [core:notice] [pid 3816:tid 360] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 14:16:35.757926 2026] [mpm_winnt:notice] [pid 3816:tid 360] AH00418: Parent: Created child process 32904
+[Thu Jul 02 14:16:36.228463 2026] [mpm_winnt:notice] [pid 32904:tid 360] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 14:21:46.825509 2026] [mpm_winnt:crit] [pid 32904:tid 360] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 14:21:48.848826 2026] [mpm_winnt:notice] [pid 32904:tid 360] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 14:21:52.103228 2026] [core:warn] [pid 21776:tid 168] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 14:21:52.115164 2026] [mpm_winnt:notice] [pid 21776:tid 168] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 14:21:52.115164 2026] [mpm_winnt:notice] [pid 21776:tid 168] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 14:21:52.115164 2026] [core:notice] [pid 21776:tid 168] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 14:21:52.130495 2026] [mpm_winnt:notice] [pid 21776:tid 168] AH00418: Parent: Created child process 3432
+[Thu Jul 02 14:21:52.791788 2026] [mpm_winnt:notice] [pid 3432:tid 372] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 14:34:17.167872 2026] [mpm_winnt:crit] [pid 3432:tid 372] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 14:34:17.168871 2026] [mpm_winnt:error] [pid 3432:tid 1924] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Thu Jul 02 14:34:17.168871 2026] [mpm_winnt:error] [pid 3432:tid 1956] (OS 10038)An operation was attempted on something that is not a socket.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Thu Jul 02 14:34:17.168871 2026] [mpm_winnt:notice] [pid 3432:tid 1924] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Thu Jul 02 14:34:17.168871 2026] [mpm_winnt:notice] [pid 3432:tid 1956] (OS 10038)An operation was attempted on something that is not a socket.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Thu Jul 02 14:34:19.171103 2026] [mpm_winnt:notice] [pid 3432:tid 372] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 15:10:34.647451 2026] [core:warn] [pid 31948:tid 352] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 15:10:34.716766 2026] [mpm_winnt:notice] [pid 31948:tid 352] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 15:10:34.716766 2026] [mpm_winnt:notice] [pid 31948:tid 352] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 15:10:34.716766 2026] [core:notice] [pid 31948:tid 352] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\adminer\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 15:10:34.723822 2026] [mpm_winnt:notice] [pid 31948:tid 352] AH00418: Parent: Created child process 19520
+[Thu Jul 02 15:10:35.153735 2026] [mpm_winnt:notice] [pid 19520:tid 344] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 15:14:49.900954 2026] [mpm_winnt:crit] [pid 19520:tid 344] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 15:14:51.915203 2026] [mpm_winnt:notice] [pid 19520:tid 344] AH00364: Child: All worker threads have exited.

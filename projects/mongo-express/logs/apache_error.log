@@ -1,0 +1,8 @@
+[Wed Jul 01 23:57:00.105153 2026] [core:warn] [pid 29136:tid 208] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 01 23:57:00.142506 2026] [mpm_winnt:notice] [pid 29136:tid 208] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Wed Jul 01 23:57:00.142506 2026] [mpm_winnt:notice] [pid 29136:tid 208] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Wed Jul 01 23:57:00.142506 2026] [core:notice] [pid 29136:tid 208] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\mongo-express\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Wed Jul 01 23:57:00.179923 2026] [mpm_winnt:notice] [pid 29136:tid 208] AH00418: Parent: Created child process 5028
+[Wed Jul 01 23:57:00.906887 2026] [mpm_winnt:notice] [pid 5028:tid 208] AH00354: Child: Starting 150 worker threads.
+[Wed Jul 01 23:57:59.351958 2026] [mpm_winnt:crit] [pid 5028:tid 208] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Jul 01 23:58:01.357319 2026] [mpm_winnt:notice] [pid 5028:tid 208] AH00364: Child: All worker threads have exited.

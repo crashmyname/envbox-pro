@@ -1,0 +1,9 @@
+{
+  "name": "Development",
+  "debug": true,
+  "caching": false,
+  "minification": false,
+  "compression": false,
+  "workers": 1,
+  "memoryLimit": "256M"
+}

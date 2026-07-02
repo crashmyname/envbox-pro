@@ -1,0 +1,16 @@
+[Wed Jul 01 11:17:10.269333 2026] [core:warn] [pid 15316:tid 216] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 01 11:17:10.302392 2026] [mpm_winnt:notice] [pid 15316:tid 216] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Wed Jul 01 11:17:10.302392 2026] [mpm_winnt:notice] [pid 15316:tid 216] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Wed Jul 01 11:17:10.302392 2026] [core:notice] [pid 15316:tid 216] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\testis\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Wed Jul 01 11:17:10.312500 2026] [mpm_winnt:notice] [pid 15316:tid 216] AH00418: Parent: Created child process 32628
+[Wed Jul 01 11:17:10.865954 2026] [mpm_winnt:notice] [pid 32628:tid 348] AH00354: Child: Starting 150 worker threads.
+[Wed Jul 01 11:30:10.446008 2026] [mpm_winnt:crit] [pid 32628:tid 348] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Jul 01 11:30:12.457937 2026] [mpm_winnt:notice] [pid 32628:tid 348] AH00364: Child: All worker threads have exited.
+[Thu Jul 02 13:27:30.096782 2026] [core:warn] [pid 19804:tid 336] AH00098: pid file C:/laragon/www/envbox-pro/environments/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 02 13:27:30.160099 2026] [mpm_winnt:notice] [pid 19804:tid 336] AH00455: Apache/2.4.68 (Win64) configured -- resuming normal operations
+[Thu Jul 02 13:27:30.160099 2026] [mpm_winnt:notice] [pid 19804:tid 336] AH00456: Apache Lounge VS18 Server built: Jun 17 2026 14:05:00
+[Thu Jul 02 13:27:30.160099 2026] [core:notice] [pid 19804:tid 336] AH00094: Command line: 'C:\\laragon\\www\\envbox-pro\\environments\\apache\\Apache24\\bin\\httpd.exe -d C:/laragon/www/envbox-pro/environments/apache/Apache24 -f C:\\laragon\\www\\envbox-pro\\projects\\testis\\.envbox\\apache\\httpd.conf -D FOREGROUND'
+[Thu Jul 02 13:27:30.175731 2026] [mpm_winnt:notice] [pid 19804:tid 336] AH00418: Parent: Created child process 27452
+[Thu Jul 02 13:27:30.654319 2026] [mpm_winnt:notice] [pid 27452:tid 368] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 02 13:35:22.749842 2026] [mpm_winnt:crit] [pid 27452:tid 368] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jul 02 13:35:24.763894 2026] [mpm_winnt:notice] [pid 27452:tid 368] AH00364: Child: All worker threads have exited.

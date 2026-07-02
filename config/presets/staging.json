@@ -1,0 +1,9 @@
+{
+  "name": "Staging",
+  "debug": false,
+  "caching": true,
+  "minification": true,
+  "compression": true,
+  "workers": 2,
+  "memoryLimit": "512M"
+}

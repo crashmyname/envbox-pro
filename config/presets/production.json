@@ -1,0 +1,9 @@
+{
+  "name": "Production",
+  "debug": false,
+  "caching": true,
+  "minification": true,
+  "compression": true,
+  "workers": "auto",
+  "memoryLimit": "1024M"
+}
